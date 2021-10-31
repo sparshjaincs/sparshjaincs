@@ -1,19 +1,24 @@
 ## Hey 👋, I'm Sparsh Jain.
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sparshjaincs/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sparshjaincs@gmail.com)](mailto:sparshjaincs@gmail.com) <!--[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010)-->  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/codingalphas.community/)](https://www.instagram.com/codingalphas.community/) <!--[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)-->
+<!--
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sparshjaincs/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sparshjaincs@gmail.com)](mailto:sparshjaincs@gmail.com) 
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010)[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/codingalphas.community/)](https://www.instagram.com/codingalphas.community/)[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)-->
 
-### Glad to see you here! &nbsp; ![GitHub followers](https://img.shields.io/github/followers/sparshjaincs) ![GitHub User's stars](https://img.shields.io/github/stars/sparshjaincs)
+### Glad to see you here❤️! &nbsp;
+<!--
+  ![GitHub followers](https://img.shields.io/github/followers/sparshjaincs) ![GitHub User's stars](https://img.shields.io/github/stars/sparshjaincs)
+-->
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from JECRC College, Jaipur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Machine Learning 👀.
+I am a software engineer😎 who loves hacking and breaking into technologies🧑‍💻. I'm a passionate learner who's always willing to learn new stuff and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently focusing on mastering Data Science 🤖 and building a community for developers 👩‍💻.
 
 ### More about me:
 
-- 👨💻 Currently working, learning and growing my skillset in Web Developement, Cloud Computing, Machine Learning, data structures and algorithms.
-- 🤝 Open for collaborations in web development 🕸️
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-<!--- 🌐 Visit my [porfolio website](https://manumanoj.me) for complete background and contact. -->
-- 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/sparshjaincs/).
+- Currently working at Accenture Solutions Pvt. Ltd.🏢 as a software engineer😎.
+- Born and Bred in Jaipur.
+- Working on developing a community of developers every day and learning new stuff.
+- Some technologies I enjoy working with include Django, Python and Machine Learning.
+- In addition to these, I love listening to music, reading books, and traveling and exploring new places.
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
