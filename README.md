@@ -20,6 +20,7 @@ I am a software engineer😎 who loves hacking and breaking into technologies�
 - Some technologies I enjoy working with include Django, Python and Machine Learning.
 - In addition to these, I love listening to music, reading books, and traveling and exploring new places.
 
+
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
  <a href="https://www.python.org" target="_blank">Python </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript </a> | <a href="https://getbootstrap.com" target="_blank"> Bootstrap</a> | <a href="https://www.w3schools.com/css/" target="_blank"> CSS </a> | <a href="https://www.w3.org/html/" target="_blank"> HTML </a> | <a href="https://www.mysql.com/" target="_blank"> Mysql </a> | <a href="https://www.postgresql.org" target="_blank"> Postgres </a> | <a href="https://flask.palletsprojects.com/" target="_b"> Flask </a>
